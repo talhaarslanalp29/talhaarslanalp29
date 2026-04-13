@@ -47,10 +47,10 @@
 **⬡ İş Analizi**
 Gereksinim toplama, user story, acceptance criteria, BPMN mantığıyla süreç modelleme, yapılandırılmış dokümantasyon.
 
-**⬡ ERP & Kurumsal Sistemler**
+**⬡ ERP &amp; Kurumsal Sistemler**
 Modüler sistem düşüncesi, veri akışları, rol/yetki tasarımı, audit trail mantığı, operasyonel raporlama.
 
-**⬡ Süreç & Ürün Geliştirme**
+**⬡ Süreç &amp; Ürün Geliştirme**
 Problem tanımından modül planlamasına, roadmap yönetimine ve iteratif teslimat süreçlerine kadar.
 
 </td>
