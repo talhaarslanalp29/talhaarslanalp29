@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:00ffe7&height=220&section=header&text=TALHA%20ARSLANALP&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Yonetim%20Bilisim%20Sistemleri%20%26%20Uluslararasi%20Ticaret&descSize=14&descAlignY=58&descColor=7ecfff&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:00ffe7&amp;height=220&amp;section=header&amp;text=TALHA%20ARSLANALP&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Yonetim%20Bilisim%20Sistemleri%20%26%20Uluslararasi%20Ticaret&amp;descSize=14&amp;descAlignY=58&amp;descColor=7ecfff&amp;animation=fadeIn" width="100%" alt="Header" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=00FFE7&center=true&vCenter=true&width=620&lines=ERP+ve+Surec+Odakli+Sistem+Kurucu;Is+Analizi+ve+Raporlama+Odakli;Esnafik+Gelistiricisi;Olceklenebilir+Sistemler+Tasarim+Odakli" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=3000&amp;pause=900&amp;color=00FFE7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=ERP+ve+Surec+Odakli+Sistem+Kurucu;Is+Analizi+ve+Raporlama+Odakli;Esnafik+Gelistiricisi;Olceklenebilir+Sistemler+Tasarim+Odakli" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -148,9 +148,9 @@ Staj ve proje iş birliklerinde güçlü katkı verdiğim alanlar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=talhaarslanalp29&show_icons=true&theme=merko&bg_color=0a0a1a&title_color=00ffe7&text_color=c0c0d0&icon_color=7ecfff&border_color=1a2a4a&hide_border=false&count_private=true&rank_icon=github" width="47%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=talhaarslanalp29&amp;show_icons=true&amp;theme=merko&amp;bg_color=0a0a1a&amp;title_color=00ffe7&amp;text_color=c0c0d0&amp;icon_color=7ecfff&amp;border_color=1a2a4a&amp;hide_border=false&amp;count_private=true&amp;rank_icon=github" width="47%" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaarslanalp29&theme=dark&background=0a0a1a&ring=00ffe7&fire=7c3aed&currStreakLabel=7ecfff&sideLabels=c0c0d0&dates=c0c0d0&border=1a2a4a" width="47%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaarslanalp29&amp;theme=dark&amp;background=0a0a1a&amp;ring=00ffe7&amp;fire=7c3aed&amp;currStreakLabel=7ecfff&amp;sideLabels=c0c0d0&amp;dates=c0c0d0&amp;border=1a2a4a" width="47%" alt="GitHub Streak" />
 
 </div>
 
@@ -158,6 +158,6 @@ Staj ve proje iş birliklerinde güçlü katkı verdiğim alanlar:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:0d1b4b,100:0a0a1a&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ffe7,50:0d1b4b,100:0a0a1a&amp;height=120&amp;section=footer" width="100%" alt="Footer" />
 
 </div>
