@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:00ffe7&height=220&section=header&text=TALHA%20ARSLANALP&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Yönetim%20Bilişim%20Sistemleri%20%26%20Uluslararası%20Ticaret&descSize=14&descAlignY=58&descColor=7ecfff&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:00ffe7&height=220&section=header&text=TALHA%20ARSLANALP&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Yonetim%20Bilisim%20Sistemleri%20%26%20Uluslararasi%20Ticaret&descSize=14&descAlignY=58&descColor=7ecfff&animation=fadeIn" width="100%" alt="Header" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=00FFE7&center=true&vCenter=true&width=620&lines=ERP+ve+S%C3%BCre%C3%A7+Odakl%C4%B1+Sistem+Kurucu;%C4%B0%C5%9F+Analizi+ve+Raporlama+Odakl%C4%B1;Esnafik+Geli%C5%9Ftiricisi;%C3%96l%C3%A7eklenebilir+Sistemler+Tasar%C4%B1lar%C4%B1m" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=00FFE7&center=true&vCenter=true&width=620&lines=ERP+ve+Surec+Odakli+Sistem+Kurucu;Is+Analizi+ve+Raporlama+Odakli;Esnafik+Gelistiricisi;Olceklenebilir+Sistemler+Tasarim+Odakli" alt="Typing SVG" />
 </a>
 
 <br/>
 
-*Sadece proje değil, sistem kuruyorum.*
+*Süreçleri yapılandırır, sistemleri büyütürüm.*
 
 <br/>
 
@@ -24,9 +24,9 @@
 
 ## `>_ Hakkımda`
 
-Çoğu iş süreci varsayılan olarak dağınıktır — WhatsApp mesajlarına, Excel'e ve alışkanlıklara gömülü. Ben o karmaşaya yapı kazandıran sistemler tasarlıyorum: net veri akışları, tanımlı roller, ölçülebilir çıktılar ve gerçekten büyüyebilecek bir temel.
+Çoğu iş süreci yapısal olmayan bir şekilde yürütülür — siparişler WhatsApp'ta, stok Excel'de, kararlar sezgiye dayalı. Ben bu süreçlere yapı kazandıran sistemler tasarlıyorum: net veri akışları, tanımlı roller, ölçülebilir çıktılar ve büyüyebilecek bir temel.
 
-**Yönetim Bilişim Sistemleri & Uluslararası Ticaret** okuyorum. Odağım uygulamalı: modüller halinde düşünüyor, gereksinimler biçiminde yazıyor; izlenebilir, raporlanabilir ve zaman içinde geliştirilebilir çıktılara doğru inşa ediyorum.
+**Yönetim Bilişim Sistemleri & Uluslararası Ticaret** okuyorum. Odağım uygulamalı: modüler düşünüyor, gereksinimler biçiminde yazıyor; izlenebilir, raporlanabilir ve geliştirilebilir çıktılar üretiyorum.
 
 ---
 
@@ -57,7 +57,7 @@ Problem tanımından modül planlamasına, roadmap yönetimine ve iteratif tesli
 <td width="50%">
 
 **⬡ Veri / KPI / Raporlama**
-SQL temelleri, KPI seçimi, dashboard mantığı — *"Ne ölçmeliyiz?"* sorusunu yanıtlamak.
+SQL temelleri, KPI seçimi, dashboard mantığı — *"Ne ölçmeliyiz?"* sorusuna yanıt aramak.
 
 **⬡ Güvenlik Bakış Açısı**
 Minimum güvenlik hijyeni: erişim kontrolü, log yönetimi, yedekleme politikası, sistem sınırı düşüncesi — bir sistem kurucunun temel bilinci.
@@ -88,16 +88,15 @@ Minimum güvenlik hijyeni: erişim kontrolü, log yönetimi, yedekleme politikas
 
 ### ◈ Esnafik — Modüler ERP Platformu
 
-> *Gerçek bir probleme dayanan bir ürün — sınıf ödevi değil.*
+> *İşinize odaklanın, sistem tarafından desteklenin!*
+
+Küçük işletmeler operasyonlarını çoğunlukla yapısal olmayan biçimlerde yönetiyor. ERP fazla geliyorsa ve Excel yetmiyorsa, Esnafik var.
 
 **Problem**
-Türkiye'deki küçük işletmeler operasyonlarını yapısız yönetiyor: siparişler WhatsApp'ta, stok Excel'de, alacaklar bellekte. İzlenebilirlik yok, raporlama tabanı yok, üzerine büyüyebilecek bir temel yok.
+Türkiye'deki mikro ölçekli işletmelerde siparişler WhatsApp'ta, stok Excel'de, alacaklar bellekte tutulur. İzlenebilirlik yok, raporlama tabanı yok, üzerine büyüyebilecek bir temel yok.
 
 **Çözüm**
-Esnafik, mikro ölçekli işletmeler için tasarlanmış modüler bir ERP platformudur. Her modül, net veri sınırlarıyla belirli bir operasyonel alanı yönetir; rol bazlı erişim yapısı ve gerçek iş akışını yansıtan bir raporlama katmanıyla birlikte çalışır.
-
-**Etki**
-Günlük operasyonlar — satıştan nakit akışına kadar — izlenebilir, raporlanabilir ve geliştirilebilir hale gelir. Sistem işletmeyle birlikte büyüyecek şekilde kurgulanmıştır.
+Esnafik, mikro işletmeler için tasarlanmış modüler bir ERP platformudur. Her modül belirli bir operasyonel alanı net veri sınırlarıyla yönetir; rol bazlı erişim yapısı ve gerçek iş akışını yansıtan bir raporlama katmanıyla birlikte çalışır. İşletme dijital yolculuğunda büyüdükçe, Esnafik de onunla birlikte büyür.
 
 | Modül | Kapsam |
 |---|---|
@@ -109,8 +108,8 @@ Günlük operasyonlar — satıştan nakit akışına kadar — izlenebilir, rap
 **Rolüm:** Ürün & süreç tasarımı · Modül planlama · Dokümantasyon · Roadmap yönetimi · Sistem mimarisi kararları
 
 [![Repo](https://img.shields.io/badge/Repository-talhaarslanalp29%2Fesnafik-00ffe7?style=flat-square&logo=github&logoColor=0a0a1a)](https://github.com/talhaarslanalp29/esnafik)
-[![Docs](https://img.shields.io/badge/Dokümantasyon-Devam%20Ediyor-7c3aed?style=flat-square&logo=readthedocs&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Demo-Yakında-1a2a4a?style=flat-square&logo=vercel&logoColor=7ecfff)](#)
+[![Docs](https://img.shields.io/badge/Dok%C3%BCmantasyon-Devam%20Ediyor-7c3aed?style=flat-square&logo=readthedocs&logoColor=white)](#)
+[![Demo](https://img.shields.io/badge/Demo-Yak%C4%B1nda-1a2a4a?style=flat-square&logo=vercel&logoColor=7ecfff)](#)
 
 ---
 
@@ -118,9 +117,9 @@ Günlük operasyonlar — satıştan nakit akışına kadar — izlenebilir, rap
 
 > *Bir iş fikrini sistematik ve ölçeklenebilir bir yapıya dönüştürmeye odaklanıyorum.*
 
-Tedarik zinciri mantığı, B2B/B2C akış yapısı, ürün kataloğu mimarisi ve bir işletmenin büyüyebilmesi için gerekli operasyonel dokümantasyon üzerine çalışıyorum. Fikir değil — fikirlerin arkasındaki sistem.
+Tedarik zinciri mantığı, B2B/B2C akış yapısı, ürün kataloğu mimarisi ve bir işletmenin büyüyebilmesi için gerekli operasyonel dokümantasyon üzerine çalışıyorum. Odak, fikrin kendisinde değil; o fikri ayakta tutan sistem yapısında.
 
-[![Durum](https://img.shields.io/badge/Geliştiriliyor-Detaylar%20Yakında-1a2a4a?style=flat-square&logo=notion&logoColor=7ecfff)](#)
+[![Durum](https://img.shields.io/badge/Geli%C5%9Ftiriliyor-Detaylar%20Yak%C4%B1nda-1a2a4a?style=flat-square&logo=notion&logoColor=7ecfff)](#)
 
 ---
 
@@ -133,16 +132,6 @@ Tedarik zinciri mantığı, B2B/B2C akış yapısı, ürün kataloğu mimarisi v
 
 ---
 
-## `>_ Yazılar & Notlar`
-
-Blogu günlük gibi değil, mini rehber / case study formatında kullanıyorum.
-
-- **İş Analisti gibi User Story yazımı** — şablon + örnek → `[LINK]`
-- **ERP modül tasarımı: Cari modülünün olmazsa olmazları** → `[LINK]`
-- **KPI seçimi: İşletmede "neyi ölçmek" neden kritik?** → `[LINK]`
-
----
-
 ## `>_ İşbirliği & Staj`
 
 Staj ve proje iş birliklerinde güçlü katkı verdiğim alanlar:
@@ -151,7 +140,7 @@ Staj ve proje iş birliklerinde güçlü katkı verdiğim alanlar:
 - Modül tasarımı ve roadmap — ne önce, neden?
 - Raporlama/KPI mantığı — işin ölçülebilir tarafı
 
-[![Email](https://img.shields.io/badge/İletişim-talhaarslanalp%40gmail.com-00ffe7?style=flat-square&logo=gmail&logoColor=0a0a1a)](mailto:talhaarslanalp@gmail.com)
+[![Email](https://img.shields.io/badge/%C4%B0leti%C5%9Fim-talhaarslanalp%40gmail.com-00ffe7?style=flat-square&logo=gmail&logoColor=0a0a1a)](mailto:talhaarslanalp@gmail.com)
 
 ---
 
@@ -168,8 +157,6 @@ Staj ve proje iş birliklerinde güçlü katkı verdiğim alanlar:
 ---
 
 <div align="center">
-
-*Görünmeyen sistemi tasarlarım.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:0d1b4b,100:0a0a1a&height=120&section=footer" width="100%" alt="Footer" />
 
