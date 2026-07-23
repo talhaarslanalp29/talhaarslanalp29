@@ -138,6 +138,16 @@ Tedarik zinciri mantığı, B2B/B2C akış yapısı, ürün kataloğu mimarisi v
 
 ---
 
+### ◈ Diğer Projeler
+
+| Proje | Ne yapar | Yığın |
+|---|---|---|
+| **[📊 KOBİ KPI Dashboard](https://github.com/talhaarslanalp29/kobi-kpi-dashboard)** | Satış/stok/cari verisinden nakit akışı, ABC analizi, açık alacak, kritik stok KPI'ları | Python · pandas · Streamlit |
+| **[🧩 İş Analisti Şablon Kiti](https://github.com/talhaarslanalp29/is-analisti-sablon-kiti)** | Vizyon/kapsam, RACI, kullanıcı hikayesi, gereksinim, RTM, BPMN — 11 hazır Türkçe şablon | Markdown |
+| **[🌍 Dış Ticaret Araç Kutusu](https://github.com/talhaarslanalp29/dis-ticaret-arac-kutusu)** | Incoterms 2020, ithalat toplam maliyet (landed cost), kur bazlı fiyatlama | Python · Streamlit |
+
+---
+
 ## `>_ Şu An`
 
 - **İş Analizi:** gereksinim toplama, user story/acceptance criteria, süreç modelleme, dokümantasyon standardı
