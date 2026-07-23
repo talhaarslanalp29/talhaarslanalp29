@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:00ffe7&amp;height=220&amp;section=header&amp;text=TALHA%20ARSLANALP&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Yonetim%20Bilisim%20Sistemleri%20%26%20Uluslararasi%20Ticaret&amp;descSize=14&amp;descAlignY=58&amp;descColor=7ecfff&amp;animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:00ffe7&amp;height=230&amp;section=header&amp;text=TALHA%20ARSLANALP&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Yonetim%20Bilisim%20Sistemleri%20%26%20Uluslararasi%20Ticaret&amp;descSize=15&amp;descAlignY=56&amp;descColor=7ecfff&amp;animation=fadeIn" width="100%" alt="Header" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=3000&amp;pause=900&amp;color=00FFE7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=ERP+ve+Surec+Odakli+Sistem+Kurucu;Is+Analizi+ve+Raporlama+Odakli;Esnafik+Gelistiricisi;Olceklenebilir+Sistemler+Tasarim+Odakli" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=3000&amp;pause=900&amp;color=00FFE7&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Moduler+ve+Cok+Kiraci+ERP+Mimari;Is+Analizi+ve+Raporlama+Odakli;Surecleri+Sisteme+Cevirir;Esnafik+%7C+8+Modul+%C2%B7+~60K+Satir;Olceklenebilir+Sistemler+Tasarlar" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,6 +18,11 @@
 [![Email](https://img.shields.io/badge/Email-talhaarslanalp%40gmail.com-00ffe7?style=for-the-badge&amp;logo=gmail&amp;logoColor=0a0a1a)](mailto:talhaarslanalp@gmail.com)
 [![Website](https://img.shields.io/badge/Website-talhaarslanalp.me-7c3aed?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://talhaarslanalp.me)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=talhaarslanalp29&amp;color=00ffe7&amp;style=for-the-badge&amp;label=PROFIL+GORUNTULEME" alt="Profil Görüntüleme" />
+<a href="https://github.com/talhaarslanalp29?tab=followers"><img src="https://img.shields.io/github/followers/talhaarslanalp29?style=for-the-badge&amp;color=7c3aed&amp;labelColor=0a0a1a&amp;logo=github&amp;logoColor=white&amp;label=TAKIP%C3%87I" alt="Followers" /></a>
+
 </div>
 
 ---
@@ -26,7 +31,7 @@
 
 Çoğu iş süreci yapısal olmayan bir şekilde yürütülür — siparişler WhatsApp'ta, stok Excel'de, kararlar sezgiye dayalı. Ben bu süreçlere yapı kazandıran sistemler tasarlıyorum: net veri akışları, tanımlı roller, ölçülebilir çıktılar ve büyüyebilecek bir temel.
 
-**Yönetim Bilişim Sistemleri &amp; Uluslararası Ticaret** okuyorum. Odağım uygulamalı: modüler düşünüyor, gereksinimler biçiminde yazıyor; izlenebilir, raporlanabilir ve geliştirilebilir çıktılar üretiyorum.
+**Yönetim Bilişim Sistemleri &amp; Uluslararası Ticaret** okuyorum. Odağım uygulamalı: modüler düşünüyor, gereksinimleri yazıya döküyor; izlenebilir, raporlanabilir ve geliştirilebilir çıktılar üretiyorum.
 
 ---
 
@@ -42,7 +47,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **⬡ İş Analizi**
 Gereksinim toplama, user story, acceptance criteria, BPMN mantığıyla süreç modelleme, yapılandırılmış dokümantasyon.
@@ -54,7 +59,7 @@ Modüler sistem düşüncesi, veri akışları, rol/yetki tasarımı, audit trai
 Problem tanımından modül planlamasına, roadmap yönetimine ve iteratif teslimat süreçlerine kadar.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **⬡ Veri / KPI / Raporlama**
 SQL temelleri, KPI seçimi, dashboard mantığı — *"Ne ölçmeliyiz?"* sorusuna yanıt aramak.
@@ -72,38 +77,48 @@ Minimum güvenlik hijyeni: erişim kontrolü, log yönetimi, yedekleme politikas
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&amp;logo=python&amp;logoColor=00ffe7)
-![Django](https://img.shields.io/badge/Django-0a0a1a?style=for-the-badge&amp;logo=django&amp;logoColor=00ffe7)
-![SQL](https://img.shields.io/badge/SQL-0a0a1a?style=for-the-badge&amp;logo=postgresql&amp;logoColor=7ecfff)
-![Java](https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&amp;logo=openjdk&amp;logoColor=7ecfff)
-![Git](https://img.shields.io/badge/Git%2FGitHub-0a0a1a?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff)
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,bootstrap,js,html,css,java,git,github,linux&amp;theme=dark&amp;perline=12" alt="Teknoloji" />
+
+<br/><br/>
+
+<sub>Araçlara değil, sistemlere odaklanırım — teknoloji, doğru mimarinin hizmetindedir.</sub>
 
 </div>
-
-<div align="center"><sub>Araçlara değil, sistemlere odaklanırım.</sub></div>
 
 ---
 
 ## `>_ Öne Çıkan Projeler`
 
-### ◈ Esnafik — Modüler ERP Platformu
+### ◈ Esnafik — Modüler &amp; Çok Kiracılı ERP Platformu
 
-> *İşinize odaklanın, sistem tarafından desteklenin!*
+> *İşinize odaklanın, sistem tarafından desteklenin.*
 
-Küçük işletmeler operasyonlarını çoğunlukla yapısal olmayan biçimlerde yönetiyor. ERP fazla geliyorsa ve Excel yetmiyorsa, Esnafik var.
+<p>
+<img src="https://img.shields.io/badge/Kod-~60K%20sat%C4%B1r-00ffe7?style=flat-square&amp;labelColor=0a0a1a" alt="LOC" />
+<img src="https://img.shields.io/badge/Mod%C3%BCl-8-7c3aed?style=flat-square&amp;labelColor=0a0a1a" alt="Modules" />
+<img src="https://img.shields.io/badge/Veri%20Modeli-93-7ecfff?style=flat-square&amp;labelColor=0a0a1a" alt="Models" />
+<img src="https://img.shields.io/badge/Otomatik%20Test-382-00ffe7?style=flat-square&amp;labelColor=0a0a1a" alt="Tests" />
+<img src="https://img.shields.io/badge/Stack-Django%205%20%C2%B7%20PostgreSQL-1a2a4a?style=flat-square&amp;labelColor=0a0a1a" alt="Stack" />
+</p>
 
 **Problem**
 Türkiye'deki mikro ölçekli işletmelerde siparişler WhatsApp'ta, stok Excel'de, alacaklar bellekte tutulur. İzlenebilirlik yok, raporlama tabanı yok, üzerine büyüyebilecek bir temel yok.
 
 **Çözüm**
-Esnafik, mikro işletmeler için tasarlanmış modüler bir ERP platformudur. Her modül belirli bir operasyonel alanı net veri sınırlarıyla yönetir; rol bazlı erişim yapısı ve gerçek iş akışını yansıtan bir raporlama katmanıyla birlikte çalışır. İşletme dijital yolculuğunda büyüdükçe, Esnafik de onunla birlikte büyür.
+Esnafik; satıştan üretime, cariden ön muhasebeye kadar bir mikro işletmenin tüm operasyonel alanlarını **tek bir çok kiracılı (multi-tenant) platformda** birleştiren modüler bir ERP'dir. Her firma yalnızca kullandığı modülleri açar — bir bakkal sade bir satış/cari yüzeyi görürken, bir üretim atölyesi tam üretim setini kullanır. İşletme büyüdükçe Esnafik de onunla birlikte büyür.
 
 | Modül | Kapsam |
 |---|---|
-| **Cari / Tahsilat-Ödeme** | Müşteri &amp; tedarikçi kartları, borç-alacak hareketleri, ödeme planı mantığı |
-| **Stok / Ürün** | Ürün kartı, stok hareketleri, kritik stok uyarıları |
-| **Satış** | Teklif → Sipariş → Fatura akışı |
-| **Raporlama** | KPI anlık görünümü — nakit akışı, en çok satan, açık alacaklar |
+| **Satış** | Teklif → Sipariş → Fatura akışı, beden/asorti kırılımı, çoklu ödeme |
+| **Cari / Tahsilat** | Müşteri &amp; tedarikçi cari, borç yaşlandırma, ödeme planı, tahsilat |
+| **Stok &amp; Depo** | Çok depolu stok, hareketler, kritik stok uyarıları |
+| **Tedarik &amp; Gider** | Tedarikçi kartları, alış, gider kategorileri |
+| **Üretim (Atölye)** | Lot izleme, reçete/BOM &amp; rota, iş emri, fason, parça-başı maliyet |
+| **Finans / Muhasebe** | Çift taraflı yevmiye, kasa/banka, çek-senet, duran varlık |
+| **Bordro** | SGK/vergi, brütten nete hesap, tahakkuk |
+| **e-Fatura / e-Arşiv** | GİB uyumlu fatura üretimi |
+
+**⚙ Mimari öne çıkanlar:** Çok kiracılı izolasyon · Rol tabanlı erişim (RBAC) · Denetim günlüğü (audit trail) · Modül kayıt defteri · Lot bazlı izlenebilirlik · Eşzamanlılık-güvenli bakiye/sayaç kalıpları.
 
 **Rolüm:** Ürün &amp; süreç tasarımı · Modül planlama · Dokümantasyon · Roadmap yönetimi · Sistem mimarisi kararları
 
@@ -152,12 +167,37 @@ Staj ve proje iş birliklerinde güçlü katkı verdiğim alanlar:
 &amp;nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaarslanalp29&amp;theme=dark&amp;background=0a0a1a&amp;ring=00ffe7&amp;fire=7c3aed&amp;currStreakLabel=7ecfff&amp;sideLabels=c0c0d0&amp;dates=c0c0d0&amp;border=1a2a4a" width="47%" alt="GitHub Streak" />
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaarslanalp29&amp;layout=compact&amp;langs_count=8&amp;theme=merko&amp;bg_color=0a0a1a&amp;title_color=00ffe7&amp;text_color=c0c0d0&amp;border_color=1a2a4a&amp;hide_border=false&amp;count_private=true" width="42%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaarslanalp29&amp;bg_color=0a0a1a&amp;color=00ffe7&amp;line=7c3aed&amp;point=7ecfff&amp;area=true&amp;area_color=0d1b4b&amp;hide_border=true&amp;custom_title=Katk%C4%B1%20Aktivitesi" width="94%" alt="Activity Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=talhaarslanalp29&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;margin-h=6&amp;column=7" width="94%" alt="Trophies" />
+
 </div>
+
+<!--
+  🐍 KATKI YILANI (opsiyonel — süper havalı animasyon)
+  Aktive etmek için: profil repona (talhaarslanalp29/talhaarslanalp29)
+  .github/workflows/snake.yml ekleyip Platane/snk action'ını çalıştır,
+  sonra aşağıdaki bloğun yorumunu kaldır:
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/talhaarslanalp29/talhaarslanalp29/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+  </div>
+-->
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ffe7,50:0d1b4b,100:0a0a1a&amp;height=120&amp;section=footer" width="100%" alt="Footer" />
+
+<sub><i>Sistemler konuşur; ben onlara net bir dil kazandırırım.</i></sub>
 
 </div>
