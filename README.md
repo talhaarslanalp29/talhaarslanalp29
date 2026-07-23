@@ -122,9 +122,11 @@ Esnafik; satıştan üretime, cariden ön muhasebeye kadar bir mikro işletmenin
 
 **Rolüm:** Ürün &amp; süreç tasarımı · Modül planlama · Dokümantasyon · Roadmap yönetimi · Sistem mimarisi kararları
 
-[![Repo](https://img.shields.io/badge/Repository-talhaarslanalp29%2Fesnafik-1fb8a6?style=flat-square&amp;logo=github&amp;logoColor=0a0a1a)](https://github.com/talhaarslanalp29/esnafik)
-[![Docs](https://img.shields.io/badge/Dok%C3%BCmantasyon-Devam%20Ediyor-7c3aed?style=flat-square&amp;logo=readthedocs&amp;logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Demo-Yak%C4%B1nda-1a2a4a?style=flat-square&amp;logo=vercel&amp;logoColor=7ecfff)](#)
+> 🔒 Kaynak kod özel tutulmaktadır; mimari ve teknik detaylar için **[public vaka çalışması](https://github.com/talhaarslanalp29/esnafik-showcase)**.
+
+[![Vaka Çalışması](https://img.shields.io/badge/Vaka%20%C3%87al%C4%B1%C5%9Fmas%C4%B1-G%C3%B6r%C3%BCnt%C3%BCle-1fb8a6?style=flat-square&amp;logo=github&amp;logoColor=0a0a1a)](https://github.com/talhaarslanalp29/esnafik-showcase)
+[![Kod](https://img.shields.io/badge/Kaynak%20Kod-%C3%96zel%20(private)-1a2a4a?style=flat-square&amp;logo=github&amp;logoColor=7ecfff)](#)
+[![Demo](https://img.shields.io/badge/Demo-Yak%C4%B1nda-7c3aed?style=flat-square&amp;logo=vercel&amp;logoColor=white)](#)
 
 ---
 
