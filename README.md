@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:1fb8a6&amp;height=230&amp;section=header&amp;text=TALHA%20ARSLANALP&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Yonetim%20Bilisim%20Sistemleri%20%26%20Uluslararasi%20Ticaret&amp;descSize=15&amp;descAlignY=56&amp;descColor=7ecfff&amp;animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:1fb8a6&amp;height=230&amp;section=header&amp;text=TALHA%20ARSLANALP&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Yonetim%20Bilisim%20Sistemleri%20ve%20Uluslararasi%20Ticaret&amp;descSize=15&amp;descAlignY=56&amp;descColor=7ecfff&amp;animation=fadeIn" width="100%" alt="Header" />
 
 <br/>
 
