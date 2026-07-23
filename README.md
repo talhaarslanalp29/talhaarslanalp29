@@ -173,34 +173,13 @@ Staj ve proje iş birliklerinde güçlü katkı verdiğim alanlar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=talhaarslanalp29&amp;show_icons=true&amp;theme=merko&amp;bg_color=0a0a1a&amp;title_color=1fb8a6&amp;text_color=c0c0d0&amp;icon_color=7ecfff&amp;border_color=1a2a4a&amp;hide_border=false&amp;count_private=true&amp;rank_icon=github" width="47%" alt="GitHub Stats" />
-&amp;nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaarslanalp29&amp;theme=dark&amp;background=0a0a1a&amp;ring=1fb8a6&amp;fire=7c3aed&amp;currStreakLabel=7ecfff&amp;sideLabels=c0c0d0&amp;dates=c0c0d0&amp;border=1a2a4a" width="47%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaarslanalp29&amp;layout=compact&amp;langs_count=8&amp;theme=merko&amp;bg_color=0a0a1a&amp;title_color=1fb8a6&amp;text_color=c0c0d0&amp;border_color=1a2a4a&amp;hide_border=false&amp;count_private=true" width="42%" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaarslanalp29&amp;theme=dark&amp;background=0a0a1a&amp;ring=1fb8a6&amp;fire=7c3aed&amp;currStreakLabel=7ecfff&amp;sideLabels=c0c0d0&amp;dates=c0c0d0&amp;border=1a2a4a" width="60%" alt="GitHub Streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaarslanalp29&amp;bg_color=0a0a1a&amp;color=1fb8a6&amp;line=7c3aed&amp;point=7ecfff&amp;area=true&amp;area_color=0d1b4b&amp;hide_border=true&amp;custom_title=Katk%C4%B1%20Aktivitesi" width="94%" alt="Activity Graph" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=talhaarslanalp29&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;margin-h=6&amp;column=7" width="94%" alt="Trophies" />
-
 </div>
-
-<!--
-  🐍 KATKI YILANI (opsiyonel — süper havalı animasyon)
-  Aktive etmek için: profil repona (talhaarslanalp29/talhaarslanalp29)
-  .github/workflows/snake.yml ekleyip Platane/snk action'ını çalıştır,
-  sonra aşağıdaki bloğun yorumunu kaldır:
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/talhaarslanalp29/talhaarslanalp29/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-  </div>
--->
 
 ---
 
