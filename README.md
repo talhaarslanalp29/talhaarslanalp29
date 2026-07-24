@@ -147,8 +147,8 @@ Tedarik zinciri mantığı, B2B/B2C akış yapısı, ürün kataloğu mimarisi v
 | **[📊 KOBİ KPI Dashboard](https://github.com/talhaarslanalp29/kobi-kpi-dashboard)** · [🔴 Demo](https://kobi-kpi-dashboard.streamlit.app) | Satış/stok/cari verisinden nakit akışı, ABC analizi, açık alacak, kritik stok KPI'ları | Python · pandas · Streamlit |
 | **[🧩 İş Analisti Şablon Kiti](https://github.com/talhaarslanalp29/is-analisti-sablon-kiti)** | Vizyon/kapsam, RACI, kullanıcı hikayesi, gereksinim, RTM, BPMN — 11 hazır Türkçe şablon | Markdown |
 | **[🌍 Dış Ticaret Araç Kutusu](https://github.com/talhaarslanalp29/dis-ticaret-arac-kutusu)** · [🔴 Demo](https://dis-ticaret-arac-kutusu.streamlit.app) | Incoterms 2020, ithalat toplam maliyet (landed cost), kur bazlı fiyatlama | Python · Streamlit |
-| **[📈 Dış Ticaret Veri Analizi](https://github.com/talhaarslanalp29/dis-ticaret-veri-analizi)** | İhracat trend/büyüme/mevsimsellik + pazar yoğunlaşması (HHI) analizi | Python · pandas |
-| **[🛒 Pazaryeri Operasyon Paneli](https://github.com/talhaarslanalp29/pazaryeri-operasyon-paneli)** | Trendyol/Amazon satıcısı için komisyon+kargo+iade sonrası gerçek net kâr | Python · Streamlit |
+| **[📈 Dış Ticaret Veri Analizi](https://github.com/talhaarslanalp29/dis-ticaret-veri-analizi)** · [🔴 Demo](https://dis-ticaret-veri.streamlit.app) | İhracat trend/büyüme/mevsimsellik + pazar yoğunlaşması (HHI) analizi | Python · pandas |
+| **[🛒 Pazaryeri Operasyon Paneli](https://github.com/talhaarslanalp29/pazaryeri-operasyon-paneli)** · [🔴 Demo](https://pazaryeri-operasyon-paneli.streamlit.app) | Trendyol/Amazon satıcısı için komisyon+kargo+iade sonrası gerçek net kâr | Python · Streamlit |
 
 ---
 
