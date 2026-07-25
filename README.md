@@ -87,6 +87,18 @@ Minimum güvenlik hijyeni: erişim kontrolü, log yönetimi, yedekleme politikas
 
 ---
 
+## `>_ Entegre Vizyon`
+
+Repolarım dağınık denemeler değil; **tek bir değer zincirinin bileşenleri**. Pazar analizinden ithalata, üretimden satış kanalına ve yönetime kadar — hepsi *"üretimden ihracata KOBİ yönetimi"* vizyonunun bir halkasını çözer.
+
+<div align="center">
+<img src="./docs/ekosistem_mimari.png" alt="Entegre Ekosistem Mimarisi" width="94%" />
+</div>
+
+- **Esnafik ERP** operasyonel çekirdek (backbone) · **KPI Dashboard** karar katmanı · **Dış Ticaret araçları** ithalat/ihracat operasyonu · **Veri Analizi** pazar zekâsı · **Pazaryeri Paneli** satış kanalı ekonomisi · **İş Analisti Kiti** ortak yöntem temeli.
+
+---
+
 ## `>_ Öne Çıkan Projeler`
 
 ### ◈ Esnafik — Modüler &amp; Çok Kiracılı ERP Platformu
