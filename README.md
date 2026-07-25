@@ -101,6 +101,16 @@ Repolarım dağınık denemeler değil; **tek bir değer zincirinin bileşenleri
 
 ## `>_ Öne Çıkan Projeler`
 
+### 🧭 Entegre KOBİ & Üretim Yönetim Sistemi  ·  *ürün mimarisi*
+
+> *Dağınık araçlar değil; üretim–ticaret–işletme yönetimini tek çatıda birleştiren bütünleşik ürün.*
+
+Üretim birim maliyet · İşletme KPI & nakit akış · dış ticaret · pazaryeri net kâr · ihracat analizi — hepsi **tek çok-sayfalı uygulamada**, ortak esnek veri-alım katmanıyla (şablon + otomatik sütun eşleme). Aşağıdaki bağımsız araçların çekirdek motorlarını birleştirir.
+
+[![Entegre Sistem](https://img.shields.io/badge/🧭%20Entegre%20Sistem-Repo-1fb8a6?style=flat-square&logo=github&logoColor=0a0a1a)](https://github.com/talhaarslanalp29/entegre-yonetim-sistemi)
+
+---
+
 ### ◈ Esnafik — Modüler &amp; Çok Kiracılı ERP Platformu
 
 > *İşinize odaklanın, sistem tarafından desteklenin.*
@@ -156,6 +166,7 @@ Tedarik zinciri mantığı, B2B/B2C akış yapısı, ürün kataloğu mimarisi v
 
 | Proje | Ne yapar | Yığın |
 |---|---|---|
+| **[🧭 Entegre Yönetim Sistemi](https://github.com/talhaarslanalp29/entegre-yonetim-sistemi)** | 5 modülü tek üründe birleştiren KOBİ/üretim komuta merkezi | Python · Streamlit |
 | **[📊 KOBİ KPI Dashboard](https://github.com/talhaarslanalp29/kobi-kpi-dashboard)** · [🔴 Demo](https://kobi-kpi-dashboard.streamlit.app) | Satış/stok/cari verisinden nakit akışı, ABC analizi, açık alacak, kritik stok KPI'ları | Python · pandas · Streamlit |
 | **[🧩 İş Analisti Şablon Kiti](https://github.com/talhaarslanalp29/is-analisti-sablon-kiti)** | Vizyon/kapsam, RACI, kullanıcı hikayesi, gereksinim, RTM, BPMN — 11 hazır Türkçe şablon | Markdown |
 | **[🌍 Dış Ticaret Araç Kutusu](https://github.com/talhaarslanalp29/dis-ticaret-arac-kutusu)** · [🔴 Demo](https://dis-ticaret-arac-kutusu.streamlit.app) | Incoterms 2020, ithalat toplam maliyet (landed cost), kur bazlı fiyatlama | Python · Streamlit |
